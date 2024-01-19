@@ -1,0 +1,24 @@
+ 
+.linearGradientSposnsors:hover{
+    background-image: linear-gradient(to right, #3b82f6, #6366f1, #9333ea);
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+  }
+  
+  .linearGradientSponsors2:hover{
+    background-image: linear-gradient(to right, #872968, #013e83);
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+  }
+  
+  .linearGradientSponsors3:hover{
+    background-image: linear-gradient(to right, #6d0f83, #2a5887);
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+  }
+  
+  
+  
