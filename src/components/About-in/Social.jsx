@@ -6,7 +6,7 @@ import { faTwitter, faFacebook, faInstagram, faGithub, faLinkedin } from '@forta
 const SocialMediaBar = () => {
   return (
     <div className="bg-black p-4  flex w-[30%] justify-around">
-      <div className="flex justify-around w-[80%] space-x-4 md:mt-[-70%] md:ml-[6rem] mt-[-300%] ml-[105%]">
+      <div className="flex justify-around w-[80%] space-x-4 md:mt-[-70%] md:ml-[6rem] mt-[-210%] ml-[130%]">
         <a href="https://www.linkedin.com/in/anirudh-prajapati/" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon icon={faLinkedin} className="text-white text-4xl" />
         </a>
