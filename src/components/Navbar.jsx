@@ -42,7 +42,7 @@ const Navbar = (props) => {
       <div className={`w-full md:w-[44%] text-center md:m-auto md:flex justify-around bg-${bg2} md:bg-inherit ${menuOpen ? 'visible' : 'invisible'} lg:text-[110%] z-[999] m-auto mt-[-6%]`}>
         <div className="mb-4 md:mb-0">
           <Link to="/" style={{ color: homeColor }} onClick={toggleMenu}>
-            <h1 className="hover:text-purple-800 pt-5 md:pt-0"><strong>HOME</strong></h1>
+            <h1 className="hover:text-purple-800 pt-5 md:pt-0"><strong>PROJECTS</strong></h1>
           </Link>
         </div>
         <div className="mb-4 md:mb-0">
