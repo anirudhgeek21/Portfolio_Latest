@@ -1,3 +1,8 @@
+This is my Portfolio/CV website having everything about me and my experiences.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
