@@ -11,7 +11,7 @@ const ContactComponent = () => {
     e.preventDefault();
     try {
         const body = { firstname , lastname , email , description };
-        const response = await fetch('http://localhost:3002/contacts', {
+        const response = await fetch('https://anirudh-portfolio-backend.vercel.app/contacts', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify(body),
